@@ -1,7 +1,7 @@
 # DS-4002-Case-Study-NIHFunding
 OVERVIEW:
 
-This repository includes datasets, sample code, reference documents, and general guidance for the case study on NIH funding inequalities. The focus of this particular example code is investigating the differences in funding amounts dedicated to specific cancer types. The general format of this project can be easily reproduced to extend the study to different areas of possible inequality in funding amounts. 
+This repository includes datasets, sample code, reference documents, and general guidance for the case study on NIH funding inequalities. The focus of this particular example code is investigating the differences in funding amounts dedicated to specific cancer types. The general format of this project can be easily reproduced to extend the study to different areas of possible inequality in funding amounts. The dataset was originally obtained from the NIH website, https://reporter.nih.gov/ , and can be used to search through many different specifications. For those replicating the case study, this is the website your should start with for your data collection. 
 
 DATA:
 
